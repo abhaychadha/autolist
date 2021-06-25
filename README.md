@@ -1,12 +1,19 @@
 # Getting Started with AutoList
 
 -This project was bootstrapped with Create React App.
+
 -Redux is used for state management and persistance of API data
+
 -Redux thunk is being used as middleware
+
 -Material UI is used for atomic components and for quick setup of application layout
+
 -Hooks are used for state interactions and interjecting react lifecycle
+
 -Application root route refers to `Home` component
+
 -Please note the header menu items are dummy
+
 -Please note that font sizes are as per meterial-ui typography, I tried overriding them but font size ->14px seemed too small for readability
 
 
